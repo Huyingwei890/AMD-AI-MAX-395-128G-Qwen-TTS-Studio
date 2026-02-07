@@ -1,8 +1,4 @@
-# AMD-AI-MAX-395-128G-Qwen-TTS-Studio
-AMD AI MAX 395+128G Qwen TTS 本地语音合成平台 Web端
-
-
-
+# AIMAX395TTS - AMD AI MAX 395 本地语音合成平台
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python 3.12">
