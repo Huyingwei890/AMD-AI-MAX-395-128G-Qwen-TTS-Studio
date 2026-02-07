@@ -29,6 +29,14 @@ AIMAX395TTS 是一个专为 **AMD AI MAX 395** 处理器 + **128GB 大内存** �
 - 🖥️ **Web界面** - 现代化Web UI，操作简便直观
 
 ---
+main page/声音设计
+<img width="2068" height="1412" alt="main" src="https://github.com/user-attachments/assets/697cc5cf-5d60-4739-a30b-0c0061d8db85" />
+声音克隆
+<img width="2065" height="1469" alt="2" src="https://github.com/user-attachments/assets/f7082e4c-2f31-4028-a285-5f9a5812ac27" />
+预设声音
+<img width="2057" height="1356" alt="3" src="https://github.com/user-attachments/assets/027a7961-cb96-4dd7-8313-429476598cde" />
+
+
 
 ## 🖥️ 硬件平台
 
@@ -317,12 +325,13 @@ Qwen3-TTS模型遵循其原始许可证，详情请参考：
 
 ## 📞 联系方式
 
-- 项目主页：https://github.com/yourusername/AIMAX395TTS
-- Issue反馈：https://github.com/yourusername/AIMAX395TTS/issues
-- 邮箱：your.email@example.com
+- 项目主页：ttps://github.com/Huyingwei890/AMD-AI-MAX-395-128G-Qwen-TTS-Studio
+- Issue反馈：https://github.com/Huyingwei890/AMD-AI-MAX-395-128G-Qwen-TTS-Studio/issue
+- 邮箱：huyingwei@live.cn
 
 ---
 
 <p align="center">
   <b>Made with ❤️ for AMD AI MAX 395 Platform</b>
 </p>
+
